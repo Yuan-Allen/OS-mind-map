@@ -4,7 +4,7 @@ This is the mind map of the Spring 2022 SJTU SE3357 OS course, which helps you b
 
 ## Usage
 
-You should installation [XMind](https://www.xmind.cn/download/) first to read the `.xmind` files in the `XMind` folder.
+You should install [XMind](https://www.xmind.cn/download/) first to read the `.xmind` files in the `XMind` folder.
 
 Or you can simply get the `.png` images in the `png` folder.
 
